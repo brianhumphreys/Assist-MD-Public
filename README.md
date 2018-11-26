@@ -1,5 +1,5 @@
 # Assist-MD-Public
-This repo is only a README for employers.  The real repo is kept private for proprietary purposes and because private keys are shared amongst developers. 
+This repo is only a README for employers.  The real repo is kept private for proprietary purposes and because private keys are shared amongst developers. Feel free to check out the rest of my repos for my past work! Enjoy!
 
 # ASSIST-MD WEB APPLICATION
 
